@@ -1,0 +1,22 @@
+.box {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px black solid;
+    position: relative;
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    width: 400px;
+    height: 70px;
+    margin-bottom: 15px;
+    padding-top: 40px;
+}
+
+#bouton{
+    background-color: #D0D2D6;
+    color:black;
+    border: 1px solid black;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+}
